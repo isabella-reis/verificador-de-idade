@@ -33,5 +33,7 @@ footer {
 img {
     border-radius: 50%;
     padding: 10px;
-    
+    width: 200px;
+    display: flex;
+    margin: auto;
 }
